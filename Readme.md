@@ -1,5 +1,7 @@
 ## WordPress Theme 2
 
+## Some Screenshots of the Theme
+
 ![1](https://user-images.githubusercontent.com/46419188/98859322-01d7bc80-2488-11eb-972f-eee48669f2a6.png)
 
 
